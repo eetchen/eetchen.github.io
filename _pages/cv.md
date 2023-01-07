@@ -17,7 +17,7 @@ redirect_from:
 
 - Office: Room C5029, Interdisciplinary Building No. 2, Songhu Road 2005, Shanghai city, 200438, China.
 
-- Tel: 021-31242502
+- Tel: 021-31242503
 
 - E-mail: eetchen@fudan.edu.cn
 
