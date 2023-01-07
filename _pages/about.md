@@ -32,7 +32,7 @@ Dr. Tao Chen, the PI of the laboratory,received his Ph.D. from Nanyang Technolog
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Wechat Official account</div>
+    padding: 2px;">Wechat Official Account</div>
 </center>
 
 # News
