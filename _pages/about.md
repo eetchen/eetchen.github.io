@@ -41,7 +41,7 @@ Dr. Tao Chen, the PI of the laboratory,received his Ph.D. from Nanyang Technolog
 
 **2022.11** We have one paper on "Exploring Kernel-Based Texture Transfer for Pose-Guided Person Image Generation", accepted by IEEE T-MM 2022.
 
-**2022.09** We have two papers, with one on multi-view scene reconstruction and another on residual networks strengthening, Proc. of the Conference and Workshop on Neural Information Processing Systems (NeurIPS), in press, 2022.
+**2022.09** We have two papers, with one on multi-view scene reconstruction and another on residual networks strengthening, Proc. of the Conference on Neural Information Processing Systems (NeurIPS), in press, 2022.
 
 **2022.07** We have one paper on "Efficient Joint-Dimensional Search with Solution Space Regularization for Real-Time Semantic Segmentation", accepted by International Journal of Computer Vision （IJCV), 2022.
 
