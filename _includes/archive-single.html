@@ -66,8 +66,11 @@
       {% if post.pdf %}
       [<a class="publist_pdf" href=post.pdf target="_blank">Paper</a>] <a> </a>
       {% endif %}
+      {% if post.pjpage %}
+      [<a class="publist_pjpage" href=post.pjpage target="_blank">Project Page</a>] <a> </a>
+      {% endif %}
       {% if post.code %}
-      [<a class="publist_code" href=post.code target="_blank">Code</a>]
+      [<a class="publist_code" href=post.code target="_blank">Code</a>] <a> </a>
       {% endif %}
     </p>
 
