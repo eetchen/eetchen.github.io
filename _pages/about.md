@@ -37,6 +37,8 @@ Dr. Tao Chen, the PI of the laboratory,received his Ph.D. from Nanyang Technolog
 
 # News
 
+**2023.01** We have one paper on "DCNet: Large-scale Point Cloud Semantic Segmentation with Discriminative and Efficient Feature Aggregation", accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023.
+
 **2022.12** We have one paper on "A Closer Look at Few-Shot 3D Point Cloud Classification", accepted by International Journal of Computer Vision（IJCV), 2022.
 
 **2022.11** We have one paper on "Exploring Kernel-Based Texture Transfer for Pose-Guided Person Image Generation", accepted by IEEE T-MM 2022.
