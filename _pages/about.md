@@ -21,7 +21,7 @@ redirect_from:
 - **Tel**: 021-31242503
 
 - **E-mail**: eetchen@fudan.edu.cn
-<p id='intro'>
+<p class='intro'>
 Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang Technological University in Singapore in 2012. At the beginning of 2018, he was selected into the National High Level Oversea Talent Plan, and then he joined Fudan University as a tenure-track Professor. Before joining Fudan, he worked at the top research institutions such as the Singapore Intelligent Robotics Laboratory, Singapore Institute for Infocomm Research, and Huawei Singapore Research Center. Since 2019, he joined Fudan and led a research team focusing on light deep vision model design, multimodal vision analysis, and edge device-aware vision applications. To date, Dr. Tao Chen has undertaken multiple projects and fundings from various goverment agencies such as NSFC and corporations like Huawei, Tencent. He has published nearly 100 academic papers in various reputable journals and conferences like IEEE T-PAMI/IJCV/T-IP/CVPR/NeurIPS, etc., and has granted over 10 PCT patents.
 </p>
 <style type="text/css" rel="stylesheet">
