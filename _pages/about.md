@@ -43,15 +43,17 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2023.02** We have five papers on 3D Object Detection, 3D Dense Captioning, 3D Motion Generation, and Efficient Vision Transformers, accepted by Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
 **2023.01** We have one paper on "DCNet: Large-scale Point Cloud Semantic Segmentation with Discriminative and Efficient Feature Aggregation", accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023.
 
-**2022.12** We have one paper on "A Closer Look at Few-Shot 3D Point Cloud Classification", accepted by International Journal of Computer Vision（IJCV), 2022.
+**2022.12** We have one paper on "A Closer Look at Few-Shot 3D Point Cloud Classification", accepted by International Journal of Computer Vision (IJCV), 2022.
 
 **2022.11** We have one paper on "Exploring Kernel-Based Texture Transfer for Pose-Guided Person Image Generation", accepted by IEEE T-MM 2022.
 
 **2022.09** We have two papers, with one on multi-view scene reconstruction and another on residual networks strengthening, Proc. of the Conference on Neural Information Processing Systems (NeurIPS), in press, 2022.
 
-**2022.07** We have one paper on "Efficient Joint-Dimensional Search with Solution Space Regularization for Real-Time Semantic Segmentation", accepted by International Journal of Computer Vision （IJCV), 2022.
+**2022.07** We have one paper on "Efficient Joint-Dimensional Search with Solution Space Regularization for Real-Time Semantic Segmentation", accepted by International Journal of Computer Vision (IJCV), 2022.
 
 **2022.06** We have two papers, with one on image classification and another on Efficient Image Classifier Search accepted by ACM MM, 2022.
 
