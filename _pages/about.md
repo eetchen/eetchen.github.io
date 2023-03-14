@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2023.03** We have two papers, with one on Multitask CNNs Pruning accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) and another on Hyperspectral lmage Classification accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+
 **2023.02** We have five papers on 3D Object Detection, 3D Dense Captioning, 3D Motion Generation, and Efficient Vision Transformers, accepted by Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 **2023.01** We have one paper on "DCNet: Large-scale Point Cloud Semantic Segmentation with Discriminative and Efficient Feature Aggregation", accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2023.
