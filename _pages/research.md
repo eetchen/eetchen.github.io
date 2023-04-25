@@ -16,8 +16,7 @@ Currently, the lab is focusing on several research fields including but not limi
 
 1. Lightweight deep learning study, multimodal deep learning research.
    ![PAGCP]({{ base_path }}/images/pagcp.png)
-   ![Vote2Cap-DETR]({{ base_path }}/images/vote2cap-detr.png)
-   ![Motion-Latent-Diffusion]({{ base_path }}/images/mld.png)
+   ![Vote2CapDETR-MLD]({{ base_path }}/images/mm.png)
 
 2. Embedded deep learning: The main research is to design a small-scale deep learning network with lightweight, low complexity and low memory usage under limited computing and memory conditions such as mobile, edge or ASIC custom chips.
    ![research2]({{ base_path }}/images/research2.png)
