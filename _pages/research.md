@@ -14,8 +14,10 @@ The Embedded Deep Learning and Visual Analysis Laboratory relies on several nati
 
 Currently, the lab is focusing on several research fields including but not limited to:
 
-1. Weakly supervised deep learning, lightweight deep learning study.
-   ![research1]({{ base_path }}/images/research1.png)
+1. Lightweight deep learning study, multimodal deep learning research.
+   ![PAGCP]({{ base_path }}/images/pagcp.pdf)
+   ![Vote2Cap-DETR]({{ base_path }}/images/vote2cap-detr.pdf)
+   ![Motion-Latent-Diffusion]({{ base_path }}/images/mld.pdf)
 
 2. Embedded deep learning: The main research is to design a small-scale deep learning network with lightweight, low complexity and low memory usage under limited computing and memory conditions such as mobile, edge or ASIC custom chips.
    ![research2]({{ base_path }}/images/research2.png)
