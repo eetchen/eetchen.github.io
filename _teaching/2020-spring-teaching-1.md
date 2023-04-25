@@ -4,7 +4,6 @@ collection: teaching
 type: 'Undergraduate course'
 permalink: /teaching/2020-spring-teaching-1
 venue: 'Fudan University, school of information science and technology'
-date: 2020-01-01
 location: 'Shanghai, China'
 ---
 
