@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2023.05** We have one paper on "Boost Transformer-based Language Models with GPU-Friendly Sparsity and Quantization", accepted by Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+
 **2023.04** We have one paper on "Adversarial Amendment is the Only Force Capable of Transforming an Enemy into a Friend", accepted by International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 
 **2023.03** We have three papers, with one on Multitask CNNs Pruning accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), one on Hyperspectral lmage Classification accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS), and one on Unsupervised Domain Adaptation accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
