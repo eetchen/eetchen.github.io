@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2023.07** We have two papers, with one large-scale outdoor multi-modal dataset and another on depth estimation, accepted by Proc. of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
+
 **2023.05** We have one paper on "Boost Transformer-based Language Models with GPU-Friendly Sparsity and Quantization", accepted by Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
 
 **2023.04** We have one paper on "Adversarial Amendment is the Only Force Capable of Transforming an Enemy into a Friend", accepted by International Joint Conference on Artificial Intelligence (IJCAI), 2023.
