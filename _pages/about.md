@@ -43,7 +43,7 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
-**2023.09** We have **four** papers on Autonomous Driving, 3D Shape Generation, Efficient Vision Transformers, and 3D Motion Generation, accepted by Proc. of the Conference on Neural Information Processing Systems (**NeurIPS**), 2023 and one paper on Knowledge Distillation accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
+**2023.09** We have four papers on Autonomous Driving, 3D Shape Generation, Efficient Vision Transformers, and 3D Motion Generation, accepted by Proc. of the Conference on Neural Information Processing Systems (NeurIPS), 2023 and one paper on Knowledge Distillation accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
 
 **2023.08** We have one paper on "Rethinking Cross-Domain Pedestrian Detection:ABackground-Focused Distribution AlignmentFramework for One-Stage Detectors", accepted by IEEE Transactions on Image Processing (TIP).
 
