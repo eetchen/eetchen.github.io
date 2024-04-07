@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2024.04** We have one paper on "Vote2Cap-DETR++:Decoupling Localization and Describing for End-to-End 3D Dense Captioning", accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
+
 **2024.02** We have three papers accepted by Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) in 2024, focusing on advancements in Large Language 3D Assistants, Vision-Language Transformer acceleration through pruning, and Vision Transformer Compression. Additionally, our work on Domain Generalized Point Cloud Classification has been accepted by the IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
 
 **2024.01** We have one paper on "ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation", accepted by Proc. of the International Conference on Learning Representations (ICLR), 2024 and one paper on "See Through the Real World Haze Scenes: Navigating the Synthetic-to-Real Gap in Challenging Image Dehazing", accepted by Proc. of the International Conference on Robotics and Automation (ICRA), 2024.
