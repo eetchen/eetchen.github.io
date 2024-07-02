@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2024.07** We have four papers accepted by the Proceedings of the European Conference on Computer Vision (ECCV) in 2024, focusing on 3D Assistant with Multi-modal Instructions, Test Time 3D Detection Adaptation, Network Sparsification via Stimulative Training, and Motion Controllers via Multimodal Prompts.
+
 **2024.04** We have one paper on 3D Dense Captioning, accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), one paper on Compressed Neural Models, accepted by International Joint Conference on Artificial Intelligence (IJCAI 2024), and one paper on Hyperspectral Image Classifications, accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
 
 **2024.02** We have three papers accepted by Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) in 2024, focusing on advancements in Large Language 3D Assistants, Vision-Language Transformer acceleration through pruning, and Vision Transformer Compression. Additionally, our work on Domain Generalized Point Cloud Classification has been accepted by the IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
