@@ -12,7 +12,7 @@ redirect_from:
 
 - Tao Chen 陈涛
 
-- Tenture-track Professor
+- Tenured Professor
 
 - Director of the Embedded Deep Learning and Visual Analysis Lab
 
