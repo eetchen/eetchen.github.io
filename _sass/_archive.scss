@@ -42,11 +42,21 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  border-bottom: 3px solid #7a8288;
 
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__item-title::after {
+  content: '';
+  display: block;
+  width: 50%; /* 设置横线宽度为标题的一半 */
+  height: 2px; /* 横线高度 */
+  background-color: #7a8288; /* 横线颜色 */
+  margin-top: 5px; /* 标题和横线之间的间距 */
+  margin-left: auto; /* 横线居中 */
+  margin-right: auto; /* 横线居中 */
 }
 
 /* remove border*/
@@ -243,18 +253,15 @@
 
 // Features single
 .styled-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: $type-size-5;
+  border-collapse: separate;
+  font-size: 1.5rem;
   border: none;
+  border-spacing: 0 20px;
 }
 
 .styled-table td {
   vertical-align: middle;
-  padding-left: 0.5rem;
-  padding-bottom: 0.5rem;
   border: none;
-  font-size: $type-size-5;
 }
 
 .styled-table td a {
@@ -264,7 +271,12 @@
 
 .styled-table td:first-child {
   border-left: 3px solid #7a8288;
-  width: 15%;
+  padding-left: 0.5rem;
+  width: 25%;
+}
+
+.styled-table td:last-child {
+  width: 60%;
 }
 
 .styled-table tr:hover {
