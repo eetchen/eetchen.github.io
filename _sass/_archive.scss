@@ -42,6 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  border-bottom: 3px solid #7a8288;
 
   a + a {
     opacity: 0.5;
@@ -244,7 +245,7 @@
 .styled-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: $type-size-7;
+  font-size: $type-size-5;
   border: none;
 }
 
@@ -253,7 +254,7 @@
   padding-left: 0.5rem;
   padding-bottom: 0.5rem;
   border: none;
-  font-size: $type-size-7;
+  font-size: $type-size-5;
 }
 
 .styled-table td a {
@@ -264,10 +265,6 @@
 .styled-table td:first-child {
   border-left: 3px solid #7a8288;
   width: 15%;
-}
-
-.styled-table tr {
-  border-bottom: 1px solid #ddd;
 }
 
 .styled-table tr:hover {
