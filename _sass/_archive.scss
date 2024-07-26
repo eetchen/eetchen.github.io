@@ -51,9 +51,10 @@
 .archive__item-title::after {
   content: '';
   display: block;
-  width: 30%; /* 设置横线宽度为标题的一半 */
+  width: 15%; /* 设置横线宽度为标题的一半 */
   height: 2px; /* 横线高度 */
   background-color: #7a8288; /* 横线颜色 */
+  opacity: 50%;
   margin-top: 5px; /* 标题和横线之间的间距 */
 }
 
@@ -85,10 +86,6 @@
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
-
-  .archive__item-title {
-    text-decoration: underline;
   }
 }
 
@@ -164,7 +161,7 @@
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+  // border-bottom: 1px solid $border-color;
 }
 
 .feature__item {
@@ -254,7 +251,7 @@
   border-collapse: separate;
   font-size: 1rem;
   border: none;
-  border-spacing: 0 20px;
+  border-spacing: 0 10px;
 }
 
 .styled-table td {
