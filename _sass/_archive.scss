@@ -244,11 +244,16 @@
 .styled-table {
   width: 100%;
   border-collapse: collapse;
+  font-size: $type-size-7;
+  border: none;
 }
 
 .styled-table td {
-  padding: 10px;
   vertical-align: middle;
+  padding-left: 0.5rem;
+  padding-bottom: 0.5rem;
+  border: none;
+  font-size: $type-size-7;
 }
 
 .styled-table td a {
@@ -258,6 +263,7 @@
 
 .styled-table td:first-child {
   border-left: 3px solid #7a8288;
+  width: 15%;
 }
 
 .styled-table tr {
