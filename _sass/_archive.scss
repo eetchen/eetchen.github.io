@@ -50,7 +50,6 @@
 
 /* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -84,7 +83,6 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
@@ -106,7 +104,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -150,7 +147,6 @@
     }
   }
 }
-
 
 /*
    Features
@@ -239,6 +235,51 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+      }
+    }
+  }
+}
+
+// Features single
+.feature__wrapper__signle {
+  @include clearfix();
+  margin-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+}
+
+.feature__item__signle {
+  margin-bottom: 2em;
+  font-size: 1.25rem;
+
+  @include breakpoint($small) {
+    margin-bottom: 2em;
+    @include full();
+
+    .feature__item-teaser {
+      max-height: none;
+      overflow: visible;
+    }
+  }
+
+  &--left,
+  &--right,
+  &--center {
+    @include full();
+    font-size: 1.25rem;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      .archive__item-teaser {
+        @include full();
+      }
+
+      .archive__item-body {
+        @include full();
+        @include prefix(0);
+        @include suffix(0);
       }
     }
   }

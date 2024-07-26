@@ -16,7 +16,7 @@ feature_row:
     excerpt: 'Ph.D'
   - title: 'Haichao Zhang'
     excerpt: 'Ph.D'
-feature_row2:
+feature_row_ms:
   - title: 'Ke Wu'
     excerpt: 'Master'
   - title: 'Hancheng Ye'
@@ -47,8 +47,30 @@ feature_row2:
     excerpt: 'Master'
   - title: 'Sijin Chen'
     excerpt: 'Master'
+feature_row_alumi_phd:
+  - title: 'Peng Ye'
+    excerpt: '2020-2023 \n Postdoc at CUHK'
+feature_row_alumi_ms:
+  - title: 'Ke Wu'
+    excerpt: 'Master'
 ---
 
 {% include base_path %}
+
+## Ph.D. Students
+
 {% include feature_row %}
-{% include feature_row id="feature_row2"%}
+
+## Master Students
+
+{% include feature_row id="feature_row_ms"%}
+
+## Alumni
+
+### Ph.D. Students
+
+{% include feature_row_single id="feature_row_alumi_phd"%}
+
+### Master students
+
+{% include feature_row_single id="feature_row_alumi_ms"%}
