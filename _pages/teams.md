@@ -10,7 +10,7 @@ feature_row:
   - title: 'Lin Zhang'
   - title: 'Jiakang Yuan'
   - title: 'Jianjian Cao'
-  - title: 'Weiweri Cai'
+  - title: 'Weiwei Cai'
   - title: 'Pengtao Chen'
   - title: 'Jiong Wang'
   - title: 'Bizhe Bai'
