@@ -43,6 +43,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 
 # News
 
+**2024.09** We are pleased to announce the acceptance of seven new papers this September, covering a range of cutting-edge research areas. These include Neural Coordinate Fields for Generative 3D Foundation Models (MeshXL), Causal Sequence Modelling for 3D Object Detection (3DET-Mamba), Training-Free Adaptive Diffusion, High-Performance Model Merging (EMR-Merging), 3D-Aware Image Composing with Language Instructions, Bridging the Pruning Gap through Soft-to-Hard Distillation (S2HPruner), and Fourier Neural Processes for Arbitrary-Resolution Data Assimilation (FNP).
+
 **2024.07** We have four papers accepted by the Proceedings of the European Conference on Computer Vision (ECCV) in 2024, focusing on 3D Assistant with Multi-modal Instructions, Test Time 3D Detection Adaptation, Network Sparsification via Stimulative Training, and Motion Controllers via Multimodal Prompts.
 
 **2024.04** We have one paper on 3D Dense Captioning, accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), one paper on Compressed Neural Models, accepted by International Joint Conference on Artificial Intelligence (IJCAI 2024), and one paper on Hyperspectral Image Classifications, accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
