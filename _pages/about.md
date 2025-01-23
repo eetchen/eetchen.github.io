@@ -42,8 +42,11 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+<<<<<<< HEAD
 **2025.01** We have two papers "HiSplat:Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction" and "GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training", accepted by International Conference on Learning Representations (ICLR), 2025. And one paper "All-in-One: Transferring Vision Foundation Models into Stereo Matching" accepted by Association for the Advancement of Artificial Intelligence (AAAI). We also have one paper "ClipSAM: CLIP and SAM collaboration for zero-shot anomaly segmentation" accepted by Neurocomputing.
 
+=======
+>>>>>>> 061bc2985bf34920063b16d3f660dd535d7de67f
 **2024.11** We have seven new papers accepted recently. Including one paper accepted by T-CSVT: Efficient Architecture Search via Bi-level Data Pruning; there papers accepted by T-MM: Lightweight Model Pre-training via Language Guided Knowledge Distillation, WI3D:Weakly Incremental 3D Detection via Vision Foundation Models, ShapeGPT:3D Shape Generation with A Unified Multi-modal Language Model; two paper accepted by Neurocomputing: Instruct Pix-to-3D:Instructional 3D object generation from a single image, Revisiting 3D visual grounding with Context-aware Feature Aggregation; and one paper accepted by RAL: Unbounded-GS:Extending 3D Gaussian Splatting with Hybrid Representation for Unbounded Large-Scale Scene Reconstruction.
 
 **2024.09** We are pleased to announce the acceptance of seven new papers this September, covering a range of cutting-edge research areas. These include Neural Coordinate Fields for Generative 3D Foundation Models (MeshXL), Causal Sequence Modelling for 3D Object Detection (3DET-Mamba), Training-Free Adaptive Diffusion, High-Performance Model Merging (EMR-Merging), 3D-Aware Image Composing with Language Instructions, Bridging the Pruning Gap through Soft-to-Hard Distillation (S2HPruner), and Fourier Neural Processes for Arbitrary-Resolution Data Assimilation (FNP).
