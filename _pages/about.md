@@ -42,6 +42,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+**2025.2** We have four papers accepted by CVPR 2025! They are "Once-Tuning-Multiple-Variants:Tuning Once and Expanded as Multiple Vision-Language Model Variants" by Chong Yu, "DeRS:Towards Extremely Efficient Upcycled Mixture-of-Experts Models" by Yongqi Huang, "Consistency-aware Self-Training for Iterative-based Stereo Matching" by Jingyi Zhou, and "Pioneering 4-Bit FP Quantization for Diffusion Models:Mixup-Sign Quantization and Timestep-Aware Fine-Tuning" by Maosen Zhao &Pengtao Chen. And we also have one paper accepted by the T-CSVT, which is "DynamicModel Merging with Mixture of Weights" by Peng Ye &Chenyu Huang.
+
 **2025.01** We are pleased to announce the acceptance of our new paper "BridgeNet: Comprehensive and Effective Feature Interactions via Bridge Feature for Multi-task Dense Predictions", accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
 
 **2025.01** We have two papers "HiSplat:Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction" and "GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training", accepted by International Conference on Learning Representations (ICLR), 2025. And one paper "All-in-One: Transferring Vision Foundation Models into Stereo Matching" accepted by Association for the Advancement of Artificial Intelligence (AAAI). We also have one paper "ClipSAM: CLIP and SAM collaboration for zero-shot anomaly segmentation" accepted by Neurocomputing.
