@@ -42,6 +42,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+**2025.05** It is worth celebrating that our paper "Boost Embodied AI Models with Robust Compression Boundary" by Chong Yu is accepted by International Joint Conference on Artificial Intelligence (IJCAI), "DOLPHIN:Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback" by Jiakang Yuan is accepted by Association for Computational Linguistics(ACL) Main Conference, and "Mamba-Based Progressive-Recovery Framework forMultimodal Low Light Image Enhancement" by Mohammad Mahdizadeh is accepted by IEEE Transactions on Multimedia (T-MM)!
+
 **2025.04** We are glad to announce that our new paper "Stimulative Training++: Go Beyond The Performance Limits of Residual Networks" by Peng Ye is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
 
 **2025.02** We have four papers accepted by CVPR 2025! They are "Once-Tuning-Multiple-Variants:Tuning Once and Expanded as Multiple Vision-Language Model Variants" by Chong Yu, "DeRS:Towards Extremely Efficient Upcycled Mixture-of-Experts Models" by Yongqi Huang, "Consistency-aware Self-Training for Iterative-based Stereo Matching" by Jingyi Zhou, and "Pioneering 4-Bit FP Quantization for Diffusion Models:Mixup-Sign Quantization and Timestep-Aware Fine-Tuning" by Maosen Zhao &Pengtao Chen. And we also have one paper accepted by the T-CSVT, which is "DynamicModel Merging with Mixture of Weights" by Peng Ye &Chenyu Huang.
