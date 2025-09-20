@@ -42,6 +42,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+**2025.09** We have three papers accepted by Conference on Neural Information Processing Systems (NeurIPS) 2025! They are "FAVOR-Bench:A Comprehensive Benchmark for Fine-Grained Video Motion Understanding" by Chongjun Tu, Lin Zhang and Pengtao Chen; "PaceLLM:Brain-Inspired Large Language Models for Long-Context Understanding" by Kangcong Li and Peng Ye; "Breaking the Compression Ceiling:Data-Free Pipeline for Ultra-Efficient Delta Compression" by Xiaohui Wang and Peng Ye. And also, one paper "Rendered 2D Semantic and Generative priors guided 3D Multi-Object Grounding" by Peng Guo accepted by IEEE transactions on Multimedia(T-MM).
+
 **2025.06** It is glad to announce that our paper "Taylor-Series-Expansion-Based Vision Transformer Models" by Chong Yu is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
 
 **2025.05** It is worth celebrating that our paper "Boost Embodied AI Models with Robust Compression Boundary" by Chong Yu is accepted by International Joint Conference on Artificial Intelligence (IJCAI), "DOLPHIN:Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback" by Jiakang Yuan is accepted by Association for Computational Linguistics(ACL) Main Conference, and "Mamba-Based Progressive-Recovery Framework forMultimodal Low Light Image Enhancement" by Mohammad Mahdizadeh is accepted by IEEE Transactions on Multimedia (T-MM)!
