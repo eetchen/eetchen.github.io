@@ -42,6 +42,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+**2025.12** It is glad to announce that our paper "MADTP++:Bridge the Gap between Token and Weight Pruning for Accelerating VLTs" by Jianjian Cao is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
+
 **2025.11** We have two papers accepted by Association for the Advancement of Artificial Intelligence (AAAI) 2026! They are "Sparse-vDiT:Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers" by Pengtao Chen et al; "Mitigating Low-Quality Reasoning in MLLMs: Self-Driven Refined Multimodal CoT with Selective Thinking and Step-wise Visual Enhancement" by Chongjun Tu et al, and this one is accepted as an oral paper!
 
 **2025.09** We have three papers accepted by Conference on Neural Information Processing Systems (NeurIPS) 2025! They are "FAVOR-Bench:A Comprehensive Benchmark for Fine-Grained Video Motion Understanding" by Chongjun Tu, Lin Zhang and Pengtao Chen; "PaceLLM:Brain-Inspired Large Language Models for Long-Context Understanding" by Kangcong Li and Peng Ye; "Breaking the Compression Ceiling:Data-Free Pipeline for Ultra-Efficient Delta Compression" by Xiaohui Wang and Peng Ye. And also, one paper "Rendered 2D Semantic and Generative priors guided 3D Multi-Object Grounding" by Peng Guo accepted by IEEE transactions on Multimedia(T-MM).
