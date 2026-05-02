@@ -42,6 +42,8 @@ Dr. Tao Chen, the PI of the Embedded Vision Lab, received his Ph.D. from Nanyang
 </center>
 
 # News
+**2026.05** We have four papers accepted by International Conference on Machine Learning (ICML)! They are "FRISM:Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models" by Chenyu Huang, "Beyond Gemini-3-Pro:Revisiting LLM Routing and Aggregation at Scale" by Shengji Tang & Peng Ye, "MME-Reasoning:A Broad-Spectrum Benchmark for Evaluating Logical Reasoning in MLLMs" by Jiakang Yuan, and "HiPhO:How Far Are (M)LLMs from Humans in the Latest High School Physics Olympiad Benchmark?" by Peng Ye et al.
+
 **2026.04** It is glad to announce that our paper "Bi3D++:Hybrid Bi-domain Active Learning for Cross-domain 3D Object Detection" by Jiakang Yuan is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
 
 **2026.01** We have four papers accepted by International Conference on Learning Representations (ICLR) 2026! They are “RegionE: Adaptive Region-Aware Generation for Efficient Image Editing” by Pengtao Chen et al; “SCI-Verifier: Scientific Verifier with Thinking” by Shenghe Zheng et al; “E²LoRA: Efficient and Effective Low-Rank Adaptation with Entropy-Guided Adaptive Sharing” by Minglei Li et al; and “MotionGPT3: Human Motion as a Second Modality” by Biao Jiang et al.
